@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "224687801161",
+    "firebase_url": "https://anjuman-e-hatimi-92df8.firebaseio.com",
+    "project_id": "anjuman-e-hatimi-92df8",
+    "storage_bucket": "anjuman-e-hatimi-92df8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224687801161:android:58b44593f09901c3",
+        "android_client_info": {
+          "package_name": "anjuman.e.hatimi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224687801161-c4tsflv5augdacseur03vqc0dquf917t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiDNPnfQb4AtTzOJwCcvHHFkxa8LxUEos"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
