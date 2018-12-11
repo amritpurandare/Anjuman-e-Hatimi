@@ -21,7 +21,7 @@ android {
 
     defaultConfig {
         applicationId "anjuman.e.hatimi"
-        minSdkVersion 19
+        minSdkVersion 14
         targetSdkVersion 28
         versionCode 2
         versionName "1.1"
